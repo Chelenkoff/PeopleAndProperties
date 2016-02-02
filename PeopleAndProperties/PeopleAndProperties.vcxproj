@@ -84,6 +84,9 @@
     <ClInclude Include="Person.h" />
     <ClInclude Include="Properties.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\PropertiesPeopleDemo.gif" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
